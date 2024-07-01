@@ -1,3 +1,5 @@
+#Another while loop example and the for loop alternative :
+
 userInput = input("Enter a string : ")
 
 index = 0

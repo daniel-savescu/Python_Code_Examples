@@ -1,3 +1,5 @@
+#Examples of typecasting different data types
+
 print(int(True))
 
 print(int(False))

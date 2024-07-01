@@ -1,3 +1,5 @@
+#Example of Python program to output in browser a website by date from Internet achives
+
 import webbrowser
 import json
 from urllib.request import urlopen

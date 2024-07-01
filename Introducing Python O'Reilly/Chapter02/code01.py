@@ -1,10 +1,20 @@
+#Variables and types
+
+#Variable declaration example :
+
 a = 7
 
+#Printing the variable value :
+
 print(a)
+
+#Asigning a value to another variable
 
 b = a
 
 print(b)
+
+#Printing the type of different variables :
 
 print(type(a))
 

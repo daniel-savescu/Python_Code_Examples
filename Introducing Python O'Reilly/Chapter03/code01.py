@@ -1,3 +1,5 @@
+#Loops : while loop examples :
+
 count = 1
 
 while count <= 5:
