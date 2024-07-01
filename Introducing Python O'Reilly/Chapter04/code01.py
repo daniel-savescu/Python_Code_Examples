@@ -1,3 +1,5 @@
+#Tuple examples :
+
 empty_tupple = ()
 
 print(type(empty_tupple))
